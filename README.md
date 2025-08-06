@@ -23,3 +23,4 @@ This project is a simple rule-based chatbot built using Python that interacts wi
 The chatbot works by accepting user input using the input() function and analyzing the message through a series of conditional checks using if-elif-else statements. The responses are hard-coded and triggered based on specific keywords or phrases such as "hello", "how are you", or "bye". If the input matches any known pattern, a predefined response is returned. If not, a default message is shown indicating the chatbot didn’t understand the input.
 
 # OUTPUT
+<img width="1058" height="222" alt="Image" src="https://github.com/user-attachments/assets/64265c15-b9e7-44dc-84fc-91b0ef0d5b28" />
